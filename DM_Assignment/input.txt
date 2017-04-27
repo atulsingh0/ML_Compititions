@@ -1,0 +1,14 @@
+DS - XML pack, 
+QS - 
+Tableau
+Python DataScience 
+	▪  numpy - mainly useful for its N-dimensional array objects
+	▪  pandas - Python data analysis library, including structures such as dataframes
+	▪  matplotlib - 2D plotting library producing publication quality figures
+	▪  scikit-learn - the machine learning algorithms used for data analysis and data mining tasks
+	*  urllib
+Machine Learning
+CDC
+
+
+

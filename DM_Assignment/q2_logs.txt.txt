@@ -1,0 +1,202 @@
+
+start :00:00 ,end: 08:27
+
+
+for test data 285
+training set :283 319
+training set :284 386
+training set :287 46
+training set :288 48
+test data result : 04:45-->235
+ -----------------
+for test data 286
+training set :284 386
+training set :285 235
+training set :287 46
+training set :288 48
+test data result : 04:46-->179
+ -----------------
+for test data 297
+training set :295 503
+training set :296 35
+training set :303 401
+training set :304 445
+test data result : 04:57-->346
+ -----------------
+for test data 298
+training set :296 35
+training set :297 346
+training set :303 401
+training set :304 445
+test data result : 04:58-->235
+ -----------------
+for test data 299
+training set :297 346
+training set :298 235
+training set :303 401
+training set :304 445
+test data result : 04:59-->326
+ -----------------
+for test data 300
+training set :298 235
+training set :299 326
+training set :303 401
+training set :304 445
+test data result : 05:00-->322
+ -----------------
+for test data 301
+training set :299 326
+training set :300 322
+training set :303 401
+training set :304 445
+test data result : 05:01-->362
+ -----------------
+for test data 302
+training set :300 322
+training set :301 362
+training set :303 401
+training set :304 445
+test data result : 05:02-->383
+ -----------------
+for test data 308
+training set :306 397
+training set :307 364
+training set :315 70
+training set :316 245
+test data result : 05:08-->340
+ -----------------
+for test data 309
+training set :307 364
+training set :308 340
+training set :315 70
+training set :316 245
+test data result : 05:09-->312
+ -----------------
+for test data 310
+training set :308 340
+training set :309 312
+training set :315 70
+training set :316 245
+test data result : 05:10-->286
+ -----------------
+for test data 311
+training set :309 312
+training set :310 286
+training set :315 70
+training set :316 245
+test data result : 05:11-->229
+ -----------------
+for test data 312
+training set :310 286
+training set :311 229
+training set :315 70
+training set :316 245
+test data result : 05:12-->208
+ -----------------
+for test data 313
+training set :311 229
+training set :312 208
+training set :315 70
+training set :316 245
+test data result : 05:13-->188
+ -----------------
+for test data 314
+training set :312 208
+training set :313 188
+training set :315 70
+training set :316 245
+test data result : 05:14-->178
+ -----------------
+for test data 320
+training set :318 346
+training set :319 369
+training set :321 220
+training set :323 318
+test data result : 05:20-->314
+ -----------------
+for test data 322
+training set :320 314
+training set :321 220
+training set :323 318
+training set :324 392
+test data result : 05:22-->311
+ -----------------
+for test data 326
+training set :324 392
+training set :325 211
+training set :327 143
+training set :328 50
+test data result : 05:26-->199
+ -----------------
+for test data 342
+training set :340 451
+training set :341 345
+training set :344 103
+training set :345 500
+test data result : 05:42-->350
+ -----------------
+for test data 343
+training set :341 345
+training set :342 350
+training set :344 103
+training set :345 500
+test data result : 05:43-->325
+ -----------------
+for test data 388
+training set :386 281
+training set :387 353
+training set :389 130
+training set :390 450
+test data result : 06:28-->304
+ -----------------
+for test data 403
+training set :401 493
+training set :402 311
+training set :404 451
+training set :405 514
+test data result : 06:43-->443
+ -----------------
+for test data 481
+training set :479 447
+training set :480 30
+training set :486 143
+training set :487 381
+test data result : 08:01-->251
+ -----------------
+for test data 482
+training set :480 30
+training set :481 251
+training set :486 143
+training set :487 381
+test data result : 08:02-->202
+ -----------------
+for test data 483
+training set :481 251
+training set :482 202
+training set :486 143
+training set :487 381
+test data result : 08:03-->245
+ -----------------
+for test data 484
+training set :482 202
+training set :483 245
+training set :486 143
+training set :487 381
+test data result : 08:04-->243
+ -----------------
+for test data 485
+training set :483 245
+training set :484 243
+training set :486 143
+training set :487 381
+test data result : 08:05-->253
+ -----------------
+for test data 505
+training set :503 298
+training set :504 190
+training set :506 165
+training set :507 559
+test data result : 08:25-->303
+ -----------------
+
+Process finished with exit code 0
